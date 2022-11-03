@@ -21,10 +21,10 @@ Abaixo você pode verificar algumas imagens do resultado final do aplicação We
 <img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_index.png" target="_blank"></a>
+  <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_index_account.png" target="_blank"></a>
   <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_home.png" target="_blank"></a>
   <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_home_add.png" target="_blank"></a>
-  <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_index_account.png" target="_blank"></a>
   <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_transactions.png" target="_blank"></a>
   <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_transactions_add.png" target="_blank"></a>
-  <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_index.png" target="_blank"></a>
 </div>
