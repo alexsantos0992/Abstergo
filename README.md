@@ -18,7 +18,7 @@ O Codaí é uma iniciativa da Growdev em parceria com o SEPRORGS (Entidade patro
 Abaixo você pode verificar algumas imagens do resultado final do aplicação Web totalmente funcional.
 </div>
 
-<img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/blob/main/assets/0.png">
+<img align="center" alt="Js" height="5" width="1920" src="https://github.com/alexsantos0992/alexsantos0992/raw/main/assets/images/0.png">
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/alexsantos0992/Abstergo/master/public/assets/preview/Site_index.png" target="_blank"></a>
