@@ -6,8 +6,6 @@ Curso Gratuito de Desenvolvimento de aplicativo Web simples para aplicação de 
 
 > Duração: 20hrs <br>
 > Nível: Iniciante <br>
-> Multimédia: 35/39 <br>
-> Testes: 8/10 <br>
 
 <div align="center">
 Sobre o Codaí 2.0 <br>
